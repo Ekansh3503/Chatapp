@@ -1,0 +1,3 @@
+1. click on 'go live' for starting the server
+2. after the server is started, duplicate the current tab in order to get a new chat person. (you can duplicate the tab as many times you want ,until you are satisfied with thw number of users in the chat!!)
+3. after that start chatting by firstly entering your name in the pop-up menu and then start chatting.
